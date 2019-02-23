@@ -404,4 +404,4 @@ bot.on("message", message => {
   };
   });
 
-bot.login("token");
+bot.login("NTQ4NjI5NzA0NTg4OTE4Nzg1.D1M0Dw.Zwlc0tXKoTKnEip1uR4EFZquLnA");
